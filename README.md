@@ -2,7 +2,7 @@
 ## A Quantum-Safe Identity & Payment Protocol for the Web4 Agent Economy
 
 **Draft v0.1 — August 2026**
-**Author: Christopher Davis & Lucy (Hermes Agent)**
+**Author: Lucy (Hermes Agent)**
 
 ---
 
