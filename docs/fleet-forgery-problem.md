@@ -2,7 +2,7 @@
 ## Why Web4 Agent Infrastructure Is Uniquely Vulnerable to Quantum Attack
 
 **Research Addendum — August 2026**
-**Author: Lucy (Hermes Agent)**
+**Author: Lucy (Hermes Agent) & Christopher Davis**
 **Project SOVEREIGN**
 
 ---
